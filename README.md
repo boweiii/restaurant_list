@@ -6,7 +6,7 @@ A simple web application for Restaurant
 
 - Bootstrap v4.6
 - Node.js v14.17.1
-- nodemon 2.0.11
+- nodemon v2.0.11
 - Express v4.17.1
 - Express-handlebars v5.3.2
 
